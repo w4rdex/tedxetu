@@ -9,10 +9,12 @@ function Contact() {
           <p>tedxetu@example.com</p>
         </div>
 
-        <div className="contact-card">
-          <h4>Instagram</h4>
-          <p>@tedxetu</p>
-        </div>
+        <a href="https://www.instagram.com/tedxetu/" className="contact-card-link" target="_blank" rel="noopener noreferrer">
+          <div className="contact-card">
+            <h4>Instagram</h4>
+            <p>@tedxetu</p>
+          </div>
+        </a>
 
         <div className="contact-card">
           <h4>Konum</h4>

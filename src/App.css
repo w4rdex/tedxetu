@@ -49,6 +49,13 @@ a {
   font-size: 34px;
   font-weight: 800;
   letter-spacing: 0.5px;
+  margin: 0;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: inherit;
+  display: contents;
 }
 
 .nav-links {
@@ -103,6 +110,7 @@ a {
   margin-bottom: 24px;
   font-weight: 800;
   animation: fadeUp 1.2s ease forwards;
+  color: #f30505;
 }
 
 .hero-description {
@@ -153,6 +161,7 @@ a {
   background: rgba(255, 255, 255, 0.06);
   transform: translateY(-3px);
 }
+
 
 /* HERO SHAPES */
 .hero-background-shape {
@@ -630,6 +639,12 @@ a {
   text-align: left;
   border: 1px solid rgba(255, 255, 255, 0.05);
   transition: 0.3s ease;
+}
+
+.contact-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
 }
 
 .contact-card:hover {

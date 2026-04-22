@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <nav className="navbar">
-      <h1 className="logo">TEDxETU</h1>
+<a href="#" className="logo-link"><h1 className="logo">TEDxETU</h1></a>
 
       <ul className="nav-links">
         <li><a href="#home">Ana Sayfa</a></li>

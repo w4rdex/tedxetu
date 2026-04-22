@@ -3,8 +3,9 @@ function About() {
     <section className="section fade-section" id="about">
       <h3>Etkinlik Hakkında</h3>
       <p>
-        TEDxETU; teknoloji, girişimcilik, hayat hikayeleri ve dönüşüm odaklı
-        konuşmaları aynı sahnede buluşturmayı hedefler.
+        Fikirler konuşulduğunda büyür. TEDxETU, teknolojiden girişimciliğe, 
+        kişisel dönüşümden toplumsal değişime uzanan hikayeleri aynı çatı altında buluşturuyor. 
+        Bu bir etkinlik değil — bir başlangıç noktası.
       </p>
     </section>
   );

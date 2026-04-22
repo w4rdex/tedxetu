@@ -8,11 +8,13 @@ function Hero() {
       <div className="hero-content">
         <p className="event-label">TEDxETU 2026</p>
 
-        <h2>Başlangıç</h2>
+        <h2>BAŞLANGIÇ</h2>
 
         <p className="hero-description">
-          Her fikir bir başlangıçtır. Her değişim bir adımla başlar.
-          TEDxETU 2026, hayatı değiştiren başlangıç hikayelerini sahneye taşıyor.
+          Her büyük dönüşümün arkasında sıradan bir an vardır. 
+          O anı fark eden, cesaretle adım atan insanların hikayelerini bir araya getiriyoruz. 
+          TEDxETU 2026'ya hoş geldin.
+
         </p>
 
         <div className="hero-buttons">
