@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ali Eren Balıkel",
+    "title": "Girişimci ve Yazar",
+    "image": "/images/aliEren.png",
+    "description": "Girişimcilik ve kişisel gelişim alanlarında çalışmalar yürüten bir yazar ve konuşmacıdır. Deneyimlerini gençlerle paylaşarak ilham vermeyi amaçlar."
+  },
+  {
+    "name": "Ayşen Özgentaş",
+    "title": "İncir Akademi CEO",
+    "image": "/images/ayşenOzentas.png",
+    "description": "İncir Akademi bünyesinde eğitim ve gelişim odaklı projeler yürüten bir yöneticidir. Özellikle gençlerin kariyer yolculuklarına katkı sağlamayı hedefler."
+  },
+  {
+    "name": "Begüm Kocaefe",
+    "title": "İncir Akademi CEO",
+    "image": "/images/begumKocaefe.png",
+    "description": "Eğitim ve organizasyon alanında aktif rol alan bir girişimcidir. Gençlere yönelik etkinlikler ve eğitim programlarıyla öne çıkar."
+  },
+  {
+    "name": "Ceyda Çengelköylü",
+    "title": "Uzman Psikolog",
+    "image": "/images/ceydaCengelkoylu.png",
+    "description": "Psikoloji alanında uzmanlaşmış olup bireysel gelişim ve mental sağlık üzerine çalışmalar yapmaktadır. Danışanlarına bilimsel temelli yaklaşımlar sunar."
+  },
+  {
+    "name": "Fırat Uzer",
+    "title": "İncir Akademi CEO",
+    "image": "/images/fıratUzer.png",
+    "description": "Eğitim ve girişimcilik alanlarında faaliyet gösteren bir yöneticidir. Gençlerin gelişimine katkı sağlayan projelerde aktif rol alır."
+  },
+  {
+    "name": "Gökhan Tatar",
+    "title": "Siber Güvenlik Uzmanı",
+    "image": "/images/gokhanTatar.png",
+    "description": "Siber güvenlik alanında uzmanlaşmış olup bilgi güvenliği, etik hacking ve dijital tehditler üzerine çalışmalar yapmaktadır. Eğitimler ve seminerlerle bilgi paylaşır."
+  },
+  {
+    "name": "Hayrullah Şevik",
+    "title": "Yapımcı ve Prodüktör",
+    "image": "/images/hayrullahSevik.png",
+    "description": "Medya ve prodüksiyon alanında projeler üreten bir yapımcıdır. Yaratıcı içerik geliştirme ve üretim süreçlerinde aktif rol alır."
+  },
+  {
+    "name": "Rahim Aladağ",
+    "title": "Kişisel Gelişim Eğitmeni",
+    "image": "/images/rahimAladag.png",
+    "description": "Kişisel gelişim ve motivasyon alanında eğitimler veren bir konuşmacıdır. Bireylerin potansiyellerini keşfetmelerine yardımcı olmayı amaçlar."
+  },
+  {
+    "name": "Selin Duru",
+    "title": "DumaTech Kurucusu",
+    "image": "/images/selinDuru.png",
+    "description": "DumaTech girişiminin kurucusu olarak teknoloji odaklı projeler geliştirmektedir. Yenilikçi çözümler üretmeye odaklanan bir girişimcidir."
+  },
+  {
+    "name": "Uğur Batı",
+    "title": "Yazar",
+    "image": "/images/ugurBatı.png",
+    "description": "Pazarlama, iletişim ve kültür alanlarında eserler veren tanınmış bir yazardır. Akademik ve sektörel deneyimini yazıları ve konuşmalarıyla paylaşır."
+  },
+  {
+    "name": "Yenal Yıldırım",
+    "title": "Aktivist",
+    "image": "/images/yenalYıldırım.png",
+    "description": "Toplumsal konular üzerine çalışan ve farkındalık oluşturmayı amaçlayan bir aktivisttir. Sosyal sorumluluk projelerinde aktif rol alır."
+  },
+  {
+    "name": "Yunus Dalgıç",
+    "title": "Yapımcı ve Prodüktör",
+    "image": "/images/yunusDalgıc.png",
+    "description": "Medya sektöründe yapımcı ve prodüktör olarak çeşitli projelerde yer almaktadır. İçerik üretimi ve organizasyon süreçlerinde deneyim sahibidir."
+  }
+]

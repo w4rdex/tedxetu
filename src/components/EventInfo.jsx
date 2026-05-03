@@ -9,7 +9,7 @@ function EventInfo() {
 
         <div className="event-info-item">
           <span>Konum</span>
-          <h4>İbrahim Erkal Kültür Merkezi</h4>
+          <h4>Muammer Yaylalı Konferans Salonu</h4>
         </div>
 
         <div className="event-info-item">

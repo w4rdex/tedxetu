@@ -4,10 +4,12 @@ function Contact() {
       <h3>İletişim</h3>
 
       <div className="contact-grid">
-        <div className="contact-card">
-          <h4>E-posta</h4>
-          <p>tedxetu@example.com</p>
-        </div>
+        <a href="mailto:info@tedxetu.com" className="contact-card-link">
+          <div className="contact-card">
+            <h4>E-posta</h4>
+            <p>info@tedxetu.com</p>
+          </div>
+        </a>
 
         <a href="https://www.instagram.com/tedxetu/" className="contact-card-link" target="_blank" rel="noopener noreferrer">
           <div className="contact-card">
